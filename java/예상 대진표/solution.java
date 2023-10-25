@@ -1,6 +1,6 @@
-class Solution
+class Main
 {
-    public int solution(int n, int a, int b)
+    public int main(int n, int a, int b)
     {
         int answer = 0;
         while (a != b){
